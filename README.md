@@ -1,4 +1,4 @@
-### Hi, Im Ryder Catonio, a 4th year computer science student from the University of Alberta👋
+### Hi, I'm Ryder Catonio, a 4th year computer science student from the University of Alberta👋
 #### -🔭 I'm currently working at Nektar as a full stack web developer and co-leading the autonomous driving sub team at the University of Alberta Formula Racing Club.
 #### bla
 
