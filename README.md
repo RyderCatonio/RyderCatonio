@@ -6,7 +6,7 @@
 
 #### 🤔 I'm always eager to collaborate on new and innovative applications to gain more experience and contribute to the tech community. Feel free to reach out to me at rcatonio@ualberta.ca if you're interested in joining forces or just want to connect!
 
-#### Looking forward to new challenges and opportunities! 🚀
+#### 🚀 Looking forward to new challenges and opportunities! 
 
 <!--
 **RyderCatonio/RyderCatonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
